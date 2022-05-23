@@ -1,7 +1,7 @@
 ## Hi, I'm Rui!!! 😄
 - I'm student at the University UFPA - TUCURUÍ/PA 🌎 
 - Majoring in Computer Engineering - 7th / 10th period 👨‍💻 👨‍🎓 
-- studying: Python, HTML, CSS, Javascript, SQL and NodeJS 💻 📔
+- studying: HTML, CSS, Javascript, Java, Spring 💻 📔
 
  <div>
   <a href="https://github.com/sruiNascimento">
