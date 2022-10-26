@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/sruiNascimento">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sruiNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruiNascimento&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sruinascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruinascimento&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=sruinascimento&theme=dracula&hide_border=false"/>
   </div>
 <div style="display: inline_block"><br>
