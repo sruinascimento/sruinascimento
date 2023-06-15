@@ -1,4 +1,7 @@
 ## Hi, I'm Rui!!! 😄
+
+I am specializing in Java, with a focus on Spring Boot. I have skills in front-end development as well. By combining my academic background in engineering and my technical knowledge in programming, I am prepared to tackle exciting challenges in the field of software development.
+
 - I'm student at the University UFPA - TUCURUÍ/PA 🌎 
 - Majoring in Computer Engineering - 9th / 10th period 👨‍💻 👨‍🎓 
 - studying: Java and Spring Boot 💻 📔
