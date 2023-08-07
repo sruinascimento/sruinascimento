@@ -5,6 +5,7 @@ I am specializing in Java, with a focus on Spring Boot. I have skills in front-e
 - I'm student at the University UFPA - TUCURUÍ/PA 🌎 
 - Majoring in Computer Engineering - 9th / 10th period 👨‍💻 👨‍🎓 
 - studying: Java and Spring Boot 💻 📔
+- Back-end developer on [Alura](https://www.alura.com.br/)
 
 
 <div style="display: inline_block"><br>
