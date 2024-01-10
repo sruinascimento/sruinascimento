@@ -19,9 +19,15 @@ I am specializing in Java, with a focus on Spring Boot. I have skills in front-e
   <img align="center" alt="Rui-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">   
 </div>
 </br>
+
+<div>
+  <img src="https://streak-stats.demolab.com/?user=sruinascimento"/>
+</div>
+
 <div>
   <a href = "mailto:sruy19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sruinascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
+  <a href="https://www.linkedin.com/in/sruinascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
   
 
 
